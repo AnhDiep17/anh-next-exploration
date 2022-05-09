@@ -4,7 +4,8 @@
   "description": "NextJS exploration",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "dev": "next dev"
   },
   "repository": {
     "type": "git",
